@@ -10,23 +10,23 @@ Feel free to send me pull request so I can improve my configuration.
 
 ## How to use it
 
-Hello Tom, how are you ?
+Hello Tom, how are you?
 
-So you want to set up a new environment because you get a lot of money so you buyed a new computer ? Lucky you.
+So you want to set up a new environment because you get a lot of money, so you buy a new computer? Lucky you.
 
-Just git clone this repo on your home directory, in a `.vim` directory :
+Just git clone this repo on your home directory, in a `.vim` directory:
 
 ```bash
 git clone git@github.com:tominardi/vim-config.git ~/.vim
 ```
 
-Then create a symlink for the .vimrc file :
+Then create a symlink for the .vimrc file:
 
 ```bash
 ln -s ~/.vim/vimrc ~/.vimrc
 ```
 
-Ans install the plugins
+And install the plugins:
 
 ```bash
 vim +PlugInstall +qall  # Install the plugins
