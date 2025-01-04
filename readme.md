@@ -14,6 +14,16 @@ Hello Tom, how are you?
 
 So you want to set up a new environment because you get a lot of money, so you buy a new computer? Lucky you.
 
+### With the script
+
+Just run:
+
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/tominardi/vim-config/main/install.sh)
+```
+
+### Manually
+
 Just git clone this repo on your home directory, in a `.vim` directory:
 
 ```bash
