@@ -19,7 +19,7 @@ So you want to set up a new environment because you get a lot of money, so you b
 Just run:
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/tominardi/vim-config/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/tominardi/vim-config/refs/heads/main/install.sh)
 ```
 
 ### Manually
